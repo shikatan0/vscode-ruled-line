@@ -1,0 +1,16 @@
+{
+	"publisher": "shikatan0",
+	"name": "ruled-line",
+	"displayName": "Ruled Line",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"main": "./extension.js",
+	"activationEvents": [
+		"*"
+	],
+	"dependencies": {
+		"vsce": "^1.91.0"
+	}
+}
